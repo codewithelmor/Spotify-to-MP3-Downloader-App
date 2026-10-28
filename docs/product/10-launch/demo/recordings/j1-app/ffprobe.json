@@ -1,0 +1,34 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "mp3",
+      "codec_type": "audio",
+      "bit_rate": "128000"
+    },
+    {
+      "codec_name": "mjpeg",
+      "codec_type": "video"
+    }
+  ],
+  "format": {
+    "duration": "254.826667",
+    "bit_rate": "145011",
+    "tags": {
+      "title": "Tumatakbo",
+      "artist": "Mojofly",
+      "track": "7/11",
+      "album": "Now",
+      "disc": "1/1",
+      "date": "2005-03-01",
+      "genre": "Rock",
+      "album_artist": "Mojofly",
+      "copyright": "℗ 2005 Mojofly",
+      "iTunes Track Id": "1441512746",
+      "comment-eng": "Metadata from: Spotify, iTunes",
+      "Spotify Track Id": "3rSzz97Bk9GCEgEBbQPzyd",
+      "Spotify Artist Id": "3w5Mxl0NJ2y1CwZ6uftqJS"
+    }
+  }
+}

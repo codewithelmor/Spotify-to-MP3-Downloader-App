@@ -1,0 +1,32 @@
+;FFMETADATA1
+title=Spotify to MP3 v1.0.0 - quick overview
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=12465
+title=Introduction
+[CHAPTER]
+TIMEBASE=1/1000
+START=12465
+END=21295
+title=Paste a Spotify link
+[CHAPTER]
+TIMEBASE=1/1000
+START=21295
+END=29944
+title=Choose 128 kbps
+[CHAPTER]
+TIMEBASE=1/1000
+START=29944
+END=45166
+title=Download
+[CHAPTER]
+TIMEBASE=1/1000
+START=45166
+END=53900
+title=The tagged MP3
+[CHAPTER]
+TIMEBASE=1/1000
+START=53900
+END=64500
+title=About this project

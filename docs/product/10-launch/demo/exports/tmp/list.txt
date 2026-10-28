@@ -1,0 +1,4 @@
+file 'C:/Users/elmorc/source/repos/Spotify-to-MP3-Downloader-App/docs/product/10-launch/demo/exports/tmp/seg0.mp4'
+file 'C:/Users/elmorc/source/repos/Spotify-to-MP3-Downloader-App/docs/product/10-launch/demo/exports/tmp/seg1.mp4'
+file 'C:/Users/elmorc/source/repos/Spotify-to-MP3-Downloader-App/docs/product/10-launch/demo/exports/tmp/seg2.mp4'
+file 'C:/Users/elmorc/source/repos/Spotify-to-MP3-Downloader-App/docs/product/10-launch/demo/exports/tmp/seg3.mp4'

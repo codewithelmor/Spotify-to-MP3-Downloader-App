@@ -226,7 +226,7 @@ build/
 app/out/
 
 # Demo production (raw media and tools)
-docs/product/10-launch/demo/automation/node_modules/
-docs/product/10-launch/demo/recordings/
-docs/product/10-launch/demo/audio/
-docs/product/10-launch/demo/exports/
+# docs/product/10-launch/demo/automation/node_modules/
+# docs/product/10-launch/demo/recordings/
+# docs/product/10-launch/demo/audio/
+# docs/product/10-launch/demo/exports/
