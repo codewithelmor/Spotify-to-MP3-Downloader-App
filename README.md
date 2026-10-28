@@ -4,8 +4,17 @@ Turn a **Spotify track, album, or playlist link** into fully tagged **MP3** file
 
 Use it from the **command line** or the **Electron desktop app**; both share the same Python core.
 
+## Demo
+
+**[Spotify to MP3 Downloader: Desktop App Demo](https://www.loom.com/share/6c5c436b6d684541be871e3cc557cbcf)**
+
+A short walkthrough of the desktop app: paste a Spotify track link and click Load, pick a quality and output folder, click Download, and open the finished MP3 in Explorer, named by artist and title, tagged, and with cover art. No Spotify sign-in needed.
+
+[![Spotify to MP3 Downloader demo video](docs/product/10-launch/demo/thumbnail/spotify-to-mp3-v1.0.0-thumbnail.png)](https://www.loom.com/share/6c5c436b6d684541be871e3cc557cbcf)
+
 ## Table of Contents
 
+- [Demo](#demo)
 - [How it works](#how-it-works)
 - [Features](#features)
 - [Quick start](#quick-start)
