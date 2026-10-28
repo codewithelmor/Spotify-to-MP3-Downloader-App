@@ -246,6 +246,208 @@ Spotify-to-MP3-Downloader-App/
 │   ├── cli.py
 │   ├── core.py
 │   └── requirements.txt
+├── docs
+│   └── product
+│       └── 10-launch
+│           ├── demo
+│           │   ├── audio
+│           │   │   ├── durations.json
+│           │   │   ├── end.wav
+│           │   │   ├── s01.wav
+│           │   │   ├── s02.wav
+│           │   │   ├── s03.wav
+│           │   │   ├── s04.wav
+│           │   │   ├── s05.wav
+│           │   │   └── title.wav
+│           │   ├── automation
+│           │   │   ├── node_modules
+│           │   │   │   ├── .bin
+│           │   │   │   │   ├── playwright
+│           │   │   │   │   ├── playwright-core
+│           │   │   │   │   ├── playwright-core.cmd
+│           │   │   │   │   ├── playwright-core.ps1
+│           │   │   │   │   ├── playwright.cmd
+│           │   │   │   │   └── playwright.ps1
+│           │   │   │   ├── playwright
+│           │   │   │   │   ├── types
+│           │   │   │   │   │   ├── test.d.ts
+│           │   │   │   │   │   └── testReporter.d.ts
+│           │   │   │   │   ├── cli.js
+│           │   │   │   │   ├── index.d.ts
+│           │   │   │   │   ├── index.js
+│           │   │   │   │   ├── index.mjs
+│           │   │   │   │   ├── LICENSE
+│           │   │   │   │   ├── NOTICE
+│           │   │   │   │   ├── package.json
+│           │   │   │   │   ├── README.md
+│           │   │   │   │   ├── test.d.ts
+│           │   │   │   │   ├── test.js
+│           │   │   │   │   ├── test.mjs
+│           │   │   │   │   └── ThirdPartyNotices.txt
+│           │   │   │   ├── playwright-core
+│           │   │   │   │   ├── bin
+│           │   │   │   │   │   ├── install_media_pack.ps1
+│           │   │   │   │   │   ├── install_webkit_wsl.ps1
+│           │   │   │   │   │   ├── reinstall_chrome_beta_linux.sh
+│           │   │   │   │   │   ├── reinstall_chrome_beta_mac.sh
+│           │   │   │   │   │   ├── reinstall_chrome_beta_win.ps1
+│           │   │   │   │   │   ├── reinstall_chrome_stable_linux.sh
+│           │   │   │   │   │   ├── reinstall_chrome_stable_mac.sh
+│           │   │   │   │   │   ├── reinstall_chrome_stable_win.ps1
+│           │   │   │   │   │   ├── reinstall_msedge_beta_linux.sh
+│           │   │   │   │   │   ├── reinstall_msedge_beta_mac.sh
+│           │   │   │   │   │   ├── reinstall_msedge_beta_win.ps1
+│           │   │   │   │   │   ├── reinstall_msedge_dev_linux.sh
+│           │   │   │   │   │   ├── reinstall_msedge_dev_mac.sh
+│           │   │   │   │   │   ├── reinstall_msedge_dev_win.ps1
+│           │   │   │   │   │   ├── reinstall_msedge_stable_linux.sh
+│           │   │   │   │   │   ├── reinstall_msedge_stable_mac.sh
+│           │   │   │   │   │   └── reinstall_msedge_stable_win.ps1
+│           │   │   │   │   ├── types
+│           │   │   │   │   │   ├── protocol.d.ts
+│           │   │   │   │   │   ├── structs.d.ts
+│           │   │   │   │   │   └── types.d.ts
+│           │   │   │   │   ├── browsers.json
+│           │   │   │   │   ├── cli.js
+│           │   │   │   │   ├── index.d.ts
+│           │   │   │   │   ├── index.js
+│           │   │   │   │   ├── index.mjs
+│           │   │   │   │   ├── LICENSE
+│           │   │   │   │   ├── NOTICE
+│           │   │   │   │   ├── package.json
+│           │   │   │   │   ├── README.md
+│           │   │   │   │   └── ThirdPartyNotices.txt
+│           │   │   │   └── .package-lock.json
+│           │   │   ├── assemble.py
+│           │   │   ├── cards.py
+│           │   │   ├── cursor.ps1
+│           │   │   ├── explorer.ps1
+│           │   │   ├── package-lock.json
+│           │   │   ├── package.json
+│           │   │   ├── record.js
+│           │   │   └── tts_kokoro.py
+│           │   ├── captions
+│           │   │   ├── spotify-to-mp3-v1.0.0-overview.srt
+│           │   │   └── spotify-to-mp3-v1.0.0-overview.vtt
+│           │   ├── exports
+│           │   │   ├── review-frames
+│           │   │   │   ├── f_01.png
+│           │   │   │   ├── f_02.png
+│           │   │   │   ├── f_03.png
+│           │   │   │   ├── f_04.png
+│           │   │   │   ├── f_05.png
+│           │   │   │   ├── f_06.png
+│           │   │   │   ├── f_07.png
+│           │   │   │   ├── f_08.png
+│           │   │   │   ├── f_09.png
+│           │   │   │   ├── f_10.png
+│           │   │   │   ├── f_11.png
+│           │   │   │   ├── f_12.png
+│           │   │   │   ├── f_13.png
+│           │   │   │   ├── f_14.png
+│           │   │   │   ├── f_15.png
+│           │   │   │   ├── f_16.png
+│           │   │   │   ├── f_17.png
+│           │   │   │   ├── f_18.png
+│           │   │   │   ├── f_19.png
+│           │   │   │   ├── f_20.png
+│           │   │   │   ├── f_21.png
+│           │   │   │   ├── f_22.png
+│           │   │   │   ├── f_23.png
+│           │   │   │   ├── f_24.png
+│           │   │   │   ├── f_25.png
+│           │   │   │   ├── f_26.png
+│           │   │   │   ├── f_27.png
+│           │   │   │   ├── f_28.png
+│           │   │   │   ├── f_29.png
+│           │   │   │   ├── f_30.png
+│           │   │   │   ├── f_31.png
+│           │   │   │   ├── f_32.png
+│           │   │   │   ├── navstrip.png
+│           │   │   │   ├── x_01.png
+│           │   │   │   ├── x_02.png
+│           │   │   │   ├── x_03.png
+│           │   │   │   ├── x_04.png
+│           │   │   │   ├── x_05.png
+│           │   │   │   ├── x_06.png
+│           │   │   │   ├── x_07.png
+│           │   │   │   ├── x_08.png
+│           │   │   │   ├── x_09.png
+│           │   │   │   ├── x_10.png
+│           │   │   │   ├── x_11.png
+│           │   │   │   ├── x_12.png
+│           │   │   │   ├── x_13.png
+│           │   │   │   ├── x_14.png
+│           │   │   │   ├── x_15.png
+│           │   │   │   ├── x_16.png
+│           │   │   │   ├── x_17.png
+│           │   │   │   ├── x_18.png
+│           │   │   │   ├── x_19.png
+│           │   │   │   ├── x_20.png
+│           │   │   │   ├── x_21.png
+│           │   │   │   └── x_22.png
+│           │   │   ├── tmp
+│           │   │   │   ├── final
+│           │   │   │   │   └── final.wav
+│           │   │   │   ├── c14.png
+│           │   │   │   ├── c20.png
+│           │   │   │   ├── c27.png
+│           │   │   │   ├── c33.png
+│           │   │   │   ├── c38.png
+│           │   │   │   ├── c43.png
+│           │   │   │   ├── c50.png
+│           │   │   │   ├── c9.png
+│           │   │   │   ├── e48.png
+│           │   │   │   ├── e51.png
+│           │   │   │   ├── e53.png
+│           │   │   │   ├── list.txt
+│           │   │   │   ├── meta.txt
+│           │   │   │   ├── seg0.mp4
+│           │   │   │   ├── seg1.mp4
+│           │   │   │   ├── seg2.mp4
+│           │   │   │   ├── seg3.mp4
+│           │   │   │   ├── sheet.png
+│           │   │   │   ├── sheet2.png
+│           │   │   │   └── voice.wav
+│           │   │   ├── chapters.txt
+│           │   │   ├── spotify-to-mp3-v1.0.0-overview.mp4
+│           │   │   └── timeline.json
+│           │   ├── recordings
+│           │   │   ├── card-end
+│           │   │   │   ├── markers.json
+│           │   │   │   └── raw.mp4
+│           │   │   ├── card-title
+│           │   │   │   ├── markers.json
+│           │   │   │   └── raw.mp4
+│           │   │   ├── j1-app
+│           │   │   │   ├── ffprobe.json
+│           │   │   │   ├── markers.json
+│           │   │   │   └── raw.webm
+│           │   │   ├── j1-explorer
+│           │   │   │   ├── markers.json
+│           │   │   │   └── raw.mp4
+│           │   │   ├── explorer-shot.png
+│           │   │   ├── explorer-shot2.png
+│           │   │   ├── f10.png
+│           │   │   ├── f17.png
+│           │   │   ├── f3.png
+│           │   │   ├── f30.png
+│           │   │   ├── f36.png
+│           │   │   └── grid.png
+│           │   ├── thumbnail
+│           │   │   ├── end.png
+│           │   │   ├── spotify-to-mp3-v1.0.0-thumbnail.png
+│           │   │   └── title.png
+│           │   ├── demo-plan.md
+│           │   ├── edit.json
+│           │   ├── feature-map.md
+│           │   ├── journeys.md
+│           │   ├── qc-report.md
+│           │   ├── scenes.json
+│           │   └── script.md
+│           ├── demo-changes.md
+│           ├── published-links.md
+│           └── review-2026-10-28.md
 ├── scripts
 │   ├── build-all.ps1
 │   ├── build-all.sh

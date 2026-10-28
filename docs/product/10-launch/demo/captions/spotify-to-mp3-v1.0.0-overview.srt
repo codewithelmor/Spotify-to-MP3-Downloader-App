@@ -1,0 +1,70 @@
+1
+00:00:00,400 --> 00:00:01,939
+Spotify to MP3.
+
+2
+00:00:01,989 --> 00:00:06,070
+Spotify links in, tagged MP3 files out.
+
+3
+00:00:07,367 --> 00:00:11,457
+Want a Spotify track as
+an MP3 file you can keep?
+
+4
+00:00:12,866 --> 00:00:15,172
+Paste the track link and click Load.
+
+5
+00:00:15,222 --> 00:00:19,886
+The app reads the title, artist, and
+length from Spotify's public pages.
+
+6
+00:00:21,696 --> 00:00:22,761
+Pick a quality.
+
+7
+00:00:22,811 --> 00:00:25,886
+128 kilobits per second keeps files small.
+
+8
+00:00:25,936 --> 00:00:28,936
+Files are saved to the folder shown here.
+
+9
+00:00:30,345 --> 00:00:31,635
+Click Download.
+
+10
+00:00:31,685 --> 00:00:36,638
+The app finds a matching
+version on YouTube with yt-dlp,
+
+11
+00:00:36,688 --> 00:00:41,105
+converts it to MP3 with
+FFmpeg, and adds the tags.
+
+12
+00:00:45,567 --> 00:00:47,781
+And here is the file in Explorer.
+
+13
+00:00:47,831 --> 00:00:51,487
+Named by artist and title,
+tagged, with the cover art.
+
+14
+00:00:54,300 --> 00:00:56,311
+No Spotify sign-in needed.
+
+15
+00:00:56,361 --> 00:01:00,116
+This is an independent
+app, not made by Spotify.
+
+16
+00:01:00,166 --> 00:01:02,890
+Use it only for music you may save.
+
